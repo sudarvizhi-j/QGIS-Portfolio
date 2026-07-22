@@ -54,7 +54,7 @@ Welcome to my GIS portfolio showcasing technical skills in terrain analysis, spa
 - **Description:** Digitization of multi-geometry spatial features from georeferenced maps. Extracted point utilities (wells, posts, temples), linear transport networks (roads), and polygon land cover classes (forests, lakes, plantations).
 - **Tools/Data:** QGIS Vector Digitization, Coordinate Reference Systems (CRS).
 
-![Vector Digitization Spatial Extraction](07_Urban_Layout_Vector_Digitization_Spatial_Extraction.png)
+![Vector Digitization Spatial Extraction](06_Urban_Layout_Vector_Digitization_Spatial_Extraction.png)
 
 ---
 
@@ -63,4 +63,4 @@ Welcome to my GIS portfolio showcasing technical skills in terrain analysis, spa
 - **Description:** Georeferencing Survey of India Toposheet D43R8 over high-resolution satellite imagery for spatial registration, feature alignment, and multi-geometry vector validation across the Bengaluru region.
 - **Tools/Data:** QGIS Georeferencer, Survey of India Toposheet, Google Satellite Basemap.
 
-![Raster Georeferencing Toposheet Overlay](06_Raster_Georeferencing_Toposheet_Overlay.png)
+![Raster Georeferencing Toposheet Overlay](07_Raster_Georeferencing_Toposheet_Overlay.png)
